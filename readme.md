@@ -14,3 +14,6 @@
 
 ## [002 Linting](https://www.youtube.com/watch?v=NQ-g6v7GtoI&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7&index=3)
 - *GLSL Linter* check the shader file for error.
+
+## [003 GLSL Snippets](https://www.youtube.com/watch?v=HHww6ZbXaCQ&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7&index=4)
+- Snippets are used for autocompletion
